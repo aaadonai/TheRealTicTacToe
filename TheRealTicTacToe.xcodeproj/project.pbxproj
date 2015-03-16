@@ -15,6 +15,8 @@
 		A92DC5941AB5FF0600D81DEC /* TheRealTicTacToeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A92DC5931AB5FF0600D81DEC /* TheRealTicTacToeTests.swift */; };
 		A92DC59F1AB605D200D81DEC /* PerfectPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = A92DC59E1AB605D200D81DEC /* PerfectPlayer.swift */; };
 		A92DC5A11AB605E400D81DEC /* BoardState.swift in Sources */ = {isa = PBXBuildFile; fileRef = A92DC5A01AB605E400D81DEC /* BoardState.swift */; };
+		A92DC5A21AB6AF4100D81DEC /* PerfectPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = A92DC59E1AB605D200D81DEC /* PerfectPlayer.swift */; };
+		A92DC5A31AB6AF4500D81DEC /* BoardState.swift in Sources */ = {isa = PBXBuildFile; fileRef = A92DC5A01AB605E400D81DEC /* BoardState.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -237,6 +239,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A92DC5A31AB6AF4500D81DEC /* BoardState.swift in Sources */,
+				A92DC5A21AB6AF4100D81DEC /* PerfectPlayer.swift in Sources */,
 				A92DC5941AB5FF0600D81DEC /* TheRealTicTacToeTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
